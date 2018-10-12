@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 3813 1150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,86.25,-40)">
+        <g transform="matrix(15.2917,0,0,8.6569,-3815.45,-3522.76)">
+            <g transform="matrix(0.624488,0,0,1,135.222,45.0508)">
+                <g transform="matrix(0.474186,0,0,1,46.9735,-55.97)">
+                    <g>
+                        <g transform="matrix(1.2173,0,0,0.787544,-67.1075,138.241)">
+                            <g>
+                                <rect x="275.157" y="360.907" width="179.429" height="168.54" style="fill:rgb(255,0,0);"/>
+                            </g>
+                        </g>
+                        <g transform="matrix(1.07095,0,0,1.03847,-66.4433,-15.0252)">
+                            <g transform="matrix(1.12527,0,0,1,321.242,479.187)">
+                                <text x="0px" y="0px" style="font-family:'Superclarendon-Bold', 'Superclarendon', serif;font-weight:700;font-size:65.569px;fill:white;">DRE</text>
+                            </g>
+                            <g transform="matrix(1.46273,0,0,1.02747,319.047,539.924)">
+                                <text x="0px" y="0px" style="font-family:'Superclarendon-Bold', 'Superclarendon', serif;font-weight:700;font-size:65.569px;fill:white;">AM</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1.35366,0,0,1,-98.2922,-35.5907)">
+                    <g>
+                        <g transform="matrix(1.2173,0,0,0.787544,-57.2983,117.971)">
+                            <g>
+                                <g>
+                                    <rect x="275.157" y="360.907" width="179.429" height="168.54" style="fill:rgb(29,3,3);"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g>
+                            <g>
+                                <g transform="matrix(1.37296,0,0,1.02294,279.851,461.664)">
+                                    <text x="0px" y="0px" style="font-family:'Superclarendon-Bold', 'Superclarendon', serif;font-weight:700;font-size:65.569px;fill:white;">DES</text>
+                                </g>
+                                <g transform="matrix(1.29302,0,0,1.067,280.808,525.692)">
+                                    <text x="0px" y="0px" style="font-family:'Superclarendon-Bold', 'Superclarendon', serif;font-weight:700;font-size:65.569px;fill:white;">YNE</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
